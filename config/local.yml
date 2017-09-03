@@ -1,0 +1,10 @@
+logging:
+  level: DEBUG
+
+swagger:
+  resourcePackage: com.phonepe.resources
+
+database:
+  type: mongo
+  hostPorts:
+    - localhost:27017
